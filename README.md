@@ -1,4 +1,5 @@
 ### Hi there 👋
+![f5ec805d22f159e2989df9cc776ef61b](https://user-images.githubusercontent.com/91648112/222643277-5fc3377e-51e0-4477-b886-3f18f25074c2.gif)
 
 <!--
 **Yarik-Ydavik/Yarik-Ydavik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
